@@ -40,6 +40,7 @@
     "dropzone": "^5.7.1",
     "flickity": "^2.2.1",
     "flickity-fade": "^1.0.0",
+    "gift": "^0.10.2",
     "highlightjs": "^9.16.2",
     "imagesloaded": "^4.1.4",
     "isotope-layout": "^3.0.6",
