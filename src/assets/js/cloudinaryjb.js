@@ -14,7 +14,7 @@ if (document.getElementById("imagesjb")!==null) {
       {effect: "make_transparent:66"},{effect: "colorize", color: "#293462", height: 30, quality: 100, crop: "scale", format: "png"}]}).toHtml();
 
       //#0AC5A8 #F76262 #506690 #293462 #FFF1C1
-    document.getElementById("imagesjb").innerHTML = audi + getaround + ada + enterprise ;
+    document.getElementById("imagesjb").innerHTML = getaround + ada + enterprise ;
   };
 
 if (document.getElementById("imagegetaround")!==null) {
